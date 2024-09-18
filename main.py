@@ -16,5 +16,9 @@ product_repository1.read(2)
 
 #product_repository1.update(3,{"nume": "bujor","pret": 10, "quantity" : 5} )
 
+"""
+modificare fisier git
+"""
+
 
 
